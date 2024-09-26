@@ -1285,7 +1285,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>SpinalHDL/VexRiscv</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A FPGA friendly 32 bit RISC-V CPU implementation</div>
@@ -1388,7 +1388,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Sept 2024, 23:16:17 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Sept 2024, 00:13:08 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
