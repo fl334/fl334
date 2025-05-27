@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1192" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1163" class="">
     <defs>
         <style/>
     </defs>
@@ -240,15 +240,15 @@
                 <div class="row">
                     <section>
                         <div class="topics fill-width">
+                            <div class="label" title="Statistics is a discipline of mathematics concerned with the collection and analysis of numerical data.">statistics</div>
                             <div class="label" title="">data-mining</div>
-                            <div class="label" title="">algorithms</div>
                             <div class="label" title="">c-plus-plus</div>
-                            <div class="label" title="Machine learning is a way of modeling and interpreting data that allows a piece of software to respond intelligently.">machine learning</div>
-                            <div class="label" title="Data science is an interdisciplinary field focused on extracting knowledge from typically large data sets.">data science</div>
+                            <div class="label" title="">statistical-learning</div>
+                            <div class="label" title="">algorithms</div>
                             <div class="label" title="Natural language processing (NLP) is the study of how computers and humans interact.">natural language processing</div>
                             <div class="label" title="A database is a structured set of data held in a computer, usually a server.">database</div>
-                            <div class="label" title="Statistics is a discipline of mathematics concerned with the collection and analysis of numerical data.">statistics</div>
-                            <div class="label" title="">statistical-learning</div>
+                            <div class="label" title="Machine learning is a way of modeling and interpreting data that allows a piece of software to respond intelligently.">machine learning</div>
+                            <div class="label" title="Data science is an interdisciplinary field focused on extracting knowledge from typically large data sets.">data science</div>
                         </div>
                     </section>
                 </div>
@@ -2412,7 +2412,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 May 2025, 07:10:21 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 May 2025, 08:22:30 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
