@@ -235,15 +235,15 @@
                 <div class="row">
                     <section>
                         <div class="topics fill-width">
-                            <div class="label" title="">machine-learning</div>
-                            <div class="label" title="">data-science</div>
                             <div class="label" title="">c-plus-plus</div>
-                            <div class="label" title="">data-mining</div>
-                            <div class="label" title="">nlp</div>
                             <div class="label" title="">algorithms</div>
+                            <div class="label" title="">data-science</div>
+                            <div class="label" title="">nlp</div>
                             <div class="label" title="">database</div>
                             <div class="label" title="">statistics</div>
                             <div class="label" title="">statistical-learning</div>
+                            <div class="label" title="">data-mining</div>
+                            <div class="label" title="">machine-learning</div>
                         </div>
                     </section>
                 </div>
@@ -2412,7 +2412,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Jun 2025, 15:08:53 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Jun 2025, 16:13:25 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
