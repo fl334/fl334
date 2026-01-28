@@ -1,6 +1,7 @@
 # Howdy! Flames here 👋
 
 I’m a recent **Computer Science + Data Science graduate (2024.1–2025.12)**, passionate about building **production-ready Machine Learning systems**.  
+
 I enjoy the full cycle of **data → model → system**, turning insights into real-world solutions.  
 
 Catboy 🐱🐾 | Always curious and learning
